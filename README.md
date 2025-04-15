@@ -1,5 +1,5 @@
 # Redes Neurais:Perceptron
-#  Fundamentos do Perceptron — Material Educacional Interativo
+# Fundamentos do Perceptron — Material Educacional Interativo
 
 Bem-vindo(a) ao repositório **Fundamentos do Perceptron**, um material educacional criado em formato **Jupyter Notebook (.ipynb)** com foco no ensino **didático e visual** dos princípios básicos dessa importante técnica de redes neurais.
 
