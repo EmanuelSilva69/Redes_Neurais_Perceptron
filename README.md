@@ -59,8 +59,8 @@ Este projeto tem como objetivo **promover o entendimento completo do Perceptron*
 
 Copyright/License
 Este material é resultado de um trabalho acadêmico para a disciplina
-Fundamentos, sob a orientação do professor Dr. THALES LEVI
-AZEVEDO VALENTE, semestre letivo 2024.2, curso Engenharia da Computação,
+TÓPICOS EM ENGENHARIA DA COMPUTAÇÃO II - FUNDAMENTOS DE REDES NEURAIS, sob a orientação do professor Dr. THALES LEVI
+AZEVEDO VALENTE, semestre letivo 2025.1, curso Engenharia da Computação,
 na Universidade Federal do Maranhão (UFMA). Todo o material sob esta licença é
 software livre: pode ser usado para fins acadêmicos e comerciais sem nenhum custo.
 Não há papelada, nem royalties, nem restrições de "copyleft" do tipo GNU. Ele é
