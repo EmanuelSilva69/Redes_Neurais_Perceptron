@@ -17,8 +17,8 @@ Este material foi desenvolvido **sem o uso de bibliotecas externas para a implem
 
 @outros repositórios: [[URLs - apontem para os seus Gits, se quiserem](https://github.com/EmanuelSilva69)]
 
-@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor
-Thales Levi Azevedo Valente, e colegas de curso.
+@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
+
 ------------------------------
 ##  Conteúdo do Notebook
 
