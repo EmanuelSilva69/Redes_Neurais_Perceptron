@@ -11,11 +11,11 @@ Este material foi desenvolvido **sem o uso de bibliotecas externas para a implem
 
 @contato: [emanuel.silva@discente.ufma.br, emanuelsilva.slz@gmail.com]
 
-@data última versão: [15/04/25]
+@data última versão: [18/04/25]
 
 @versão: 1.0
 
-@outros repositórios: [[URLs - apontem para os seus Gits, se quiserem](https://github.com/EmanuelSilva69)]
+@outros repositórios: [(https://github.com/EmanuelSilva69)]
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
